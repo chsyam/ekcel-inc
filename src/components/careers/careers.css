@@ -1,0 +1,76 @@
+.careers {
+    margin: 5% 5% 2% 5%;
+    text-align: center;
+}
+
+.apply {
+    margin: 10px 0;
+    background-color: #eefcfa;
+    padding: 20px;
+}
+
+.apply button {
+    padding: 10px;
+    background-color: #0088CF;
+    color: white;
+    border: 1px solid #0088CF;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.list_head {
+    color: #0088CF;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 40px 0;
+}
+
+.jobItem {
+    text-align: left;
+    padding: 10px;
+    border: 2px solid rgb(232, 231, 231);
+    margin: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.jobItem .title {
+    font-size: 25px;
+    color: #0088CF;
+    font-weight: 500;
+}
+
+.jobItem .description {
+    font-size: 16px;
+}
+
+.jobItem .metaInfo {
+    font-size: 14px;
+    color: gray;
+    list-style: inside;
+    display: flex;
+    padding-left: 10px;
+}
+
+.metaInfo li {
+    padding: 10px;
+}
+
+.description {
+    color: gray;
+}
+
+.salary {
+    color: gray;
+}
+
+.experienced {
+    color: gray;
+}
+
+.firstRow {
+    display: flex;
+}

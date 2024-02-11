@@ -1,0 +1,36 @@
+.header {
+    background-color: #0088CF;
+    height: 100px;
+    font-family: 'Poppins', sans-serif;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .header_menu {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 5%;
+}
+
+.header .logo {
+    margin-left: 5%;
+}
+
+.header .logo img {
+    margin: 10px;
+}
+
+.header .header_menu .menu_item {
+    margin: 40px 20px;
+    cursor: pointer;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
